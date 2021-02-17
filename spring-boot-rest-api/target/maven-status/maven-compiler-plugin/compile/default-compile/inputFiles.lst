@@ -1,0 +1,17 @@
+/home/raihan/eSRD-Lab/intern_11_2020/intern-11-2020-spring-angular-problem/spring-boot-rest-api/src/main/java/com/example/restservice/models/report/Diet.java
+/home/raihan/eSRD-Lab/intern_11_2020/intern-11-2020-spring-angular-problem/spring-boot-rest-api/src/main/java/com/example/restservice/GreetingController.java
+/home/raihan/eSRD-Lab/intern_11_2020/intern-11-2020-spring-angular-problem/spring-boot-rest-api/src/main/java/com/example/restservice/repository/PatientRepository.java
+/home/raihan/eSRD-Lab/intern_11_2020/intern-11-2020-spring-angular-problem/spring-boot-rest-api/src/main/java/com/example/restservice/repository/DoctorRepository.java
+/home/raihan/eSRD-Lab/intern_11_2020/intern-11-2020-spring-angular-problem/spring-boot-rest-api/src/main/java/com/example/restservice/RestServiceApplication.java
+/home/raihan/eSRD-Lab/intern_11_2020/intern-11-2020-spring-angular-problem/spring-boot-rest-api/src/main/java/com/example/restservice/models/report/Medicine.java
+/home/raihan/eSRD-Lab/intern_11_2020/intern-11-2020-spring-angular-problem/spring-boot-rest-api/src/main/java/com/example/restservice/repository/TutorialRepository.java
+/home/raihan/eSRD-Lab/intern_11_2020/intern-11-2020-spring-angular-problem/spring-boot-rest-api/src/main/java/com/example/restservice/models/doctor/Doctor.java
+/home/raihan/eSRD-Lab/intern_11_2020/intern-11-2020-spring-angular-problem/spring-boot-rest-api/src/main/java/com/example/restservice/controllers/tutorial/TutorialController.java
+/home/raihan/eSRD-Lab/intern_11_2020/intern-11-2020-spring-angular-problem/spring-boot-rest-api/src/main/java/com/example/restservice/Greeting.java
+/home/raihan/eSRD-Lab/intern_11_2020/intern-11-2020-spring-angular-problem/spring-boot-rest-api/src/main/java/com/example/restservice/models/tutorial/Tutorial.java
+/home/raihan/eSRD-Lab/intern_11_2020/intern-11-2020-spring-angular-problem/spring-boot-rest-api/src/main/java/com/example/restservice/repository/ReportRepository.java
+/home/raihan/eSRD-Lab/intern_11_2020/intern-11-2020-spring-angular-problem/spring-boot-rest-api/src/main/java/com/example/restservice/models/report/Report.java
+/home/raihan/eSRD-Lab/intern_11_2020/intern-11-2020-spring-angular-problem/spring-boot-rest-api/src/main/java/com/example/restservice/controllers/report/ReportController.java
+/home/raihan/eSRD-Lab/intern_11_2020/intern-11-2020-spring-angular-problem/spring-boot-rest-api/src/main/java/com/example/restservice/controllers/patient/PatientController.java
+/home/raihan/eSRD-Lab/intern_11_2020/intern-11-2020-spring-angular-problem/spring-boot-rest-api/src/main/java/com/example/restservice/models/patient/Patient.java
+/home/raihan/eSRD-Lab/intern_11_2020/intern-11-2020-spring-angular-problem/spring-boot-rest-api/src/main/java/com/example/restservice/controllers/doctor/DoctorController.java
